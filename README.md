@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gasmarshal
-- 👀 I’m interested in coding, like PHP, javascript, c++ and also SEO (Search Engine Optimization)
+- 👀 I’m interested in coding, like Python, PHP, javascript, c++ and also SEO (Search Engine Optimization)
 - 🌱 I’m currently learning at university Borobudur as tech information student
 - 📫 How to reach me you can see at my website <a href="https://www.seoada.com">MARSHAL N</a>
 
