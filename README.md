@@ -5,7 +5,7 @@
 
 My love for crafting elegant code and building solutions from scratch keeps me buzzing. 
 
-Back-end? Check. 
+Back-end? so-so. 
 
 Front-end? Nailed it.
 
