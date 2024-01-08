@@ -1,22 +1,15 @@
-**`Digital Marketing | Fullstack Developer`**
+**`Staring at Code`**
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marshal!;" />
 </h1>
 
 My love for crafting elegant code and building solutions from scratch keeps me buzzing. 
 
-Back-end? so-so. 
+Back-end? So-so. 
 
 Front-end? Nailed it.
 
-But coding ain't my only jam. I also geek out on digital marketing, weaving spellbinding content and optimizing campaigns that make users say "wowzers!"
-
-So, whether you need a full-stack whiz or a marketing magician, I'm your gal. I'm a passionate problem solver with a knack for creating impactful experiences that leave users grinning from ear to ear.
-
-And hey, I promise to always bring the integrity and the laughs.
-
-Because who wants to work with a boring techie, anyway?
-
+⚡ Fun fact **My favorite pastime is staring at code and wondering what it all means.**
 
 <br/>
 
@@ -24,7 +17,7 @@ Because who wants to work with a boring techie, anyway?
  
  🌱 I’m currently learning **Docker, Kubernetes, AWS, GCP**
 
-⚡ Fun fact **My favorite pastime is staring at code and wondering what it all means.**
+
 
  </div>
  
